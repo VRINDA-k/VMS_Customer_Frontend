@@ -1,0 +1,4 @@
+export const ADD_VISITOR = "ADD_VISITOR";
+export const RETRIEVE_VISITOR = "RETRIEVE_VISITOR";
+export const UPDATE_VISITOR = "UPDATE_VISITOR";
+export const RESET_VISITOR = "RESET_VISITOR";

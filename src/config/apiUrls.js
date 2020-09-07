@@ -1,0 +1,9 @@
+export const LOGIN_URL = "/customer/login/";
+export const SETTINGS_PARAMS_API = "/visitor/settings_params/";
+export const ADD_VISITOR_API = "/visitor/";
+export const SCHEDULE_VISITOR_API = "/schedule/";
+export const ADD_VISITOR_GROUP_API = "/visitor/group/";
+export const VISITOR_API = "/visitor/";
+export const VISITOR_GROUP_API = "/visitor/group/";
+export const SCHEDULE_GROUP_VISITOR_API = "/schedule/group/";
+export const VISITOR_LISTING_API = "/schedule/view/";

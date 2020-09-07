@@ -1,0 +1,5 @@
+export const AUTH_UPDATE_TOKEN = "AUTH_UPDATE_TOKEN";
+export const AUTH_DISCARD_TOKEN = "AUTH_DISCARD_TOKEN";
+export const SUBMIT_LOGIN = "SUBMIT_LOGIN";
+export const RESET_LOGIN = "RESET_LOGIN";
+export const SET_INFO = "SET_INFO";
